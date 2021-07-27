@@ -11,6 +11,7 @@
     <modules>
         <module>sharding-jdbc-example</module>
         <module>sharding-proxy-example</module>
+        <module>sharding-master-slave</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
