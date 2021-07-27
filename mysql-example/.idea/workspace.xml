@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0025d95f-5786-440d-bdb6-4747249201fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vZlp2UkDyo8ZHulBc3YuQ6f2Af" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sharding-proxy-example/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.galaxy.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sharding-proxy-example/src/main/resources" />
+      <recent name="$PROJECT_DIR$/sharding-jdbc-example/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestProxy.test2">
+    <configuration name="TestEncryptor.testFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharding-jdbc-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dao" />
+      <option name="MAIN_CLASS_NAME" value="dao.TestEncryptor" />
+      <option name="METHOD_NAME" value="testFind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProxy.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharding-proxy-example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestProxy" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProxy.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharding-proxy-example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestProxy" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestShardingTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharding-jdbc-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dao" />
+      <option name="MAIN_CLASS_NAME" value="dao.TestShardingTransaction" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestShardingTransaction.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharding-jdbc-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dao" />
+      <option name="MAIN_CLASS_NAME" value="dao.TestShardingTransaction" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestProxy.test2" />
+        <item itemvalue="JUnit.TestProxy.test1" />
+        <item itemvalue="JUnit.TestShardingTransaction.test1" />
+        <item itemvalue="JUnit.TestShardingTransaction" />
+        <item itemvalue="JUnit.TestEncryptor.testFind" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0025d95f-5786-440d-bdb6-4747249201fe" name="Default Changelist" comment="" />
+      <created>1626777670999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626777670999</updated>
+      <workItem from="1626777674477" duration="3247000" />
+      <workItem from="1626833732514" duration="9702000" />
+      <workItem from="1626942592436" duration="2157000" />
+      <workItem from="1626946992065" duration="4802000" />
+      <workItem from="1627024447928" duration="2222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="486" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1626864242074">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1626864242074" />
+    <state width="1388" height="383" key="GridCell.Tab.0.bottom" timestamp="1627041221503">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="383" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1627041221503" />
+    <state width="1388" height="188" key="GridCell.Tab.0.bottom/0.25.1440.770@0.25.1440.770" timestamp="1626948440737" />
+    <state width="1388" height="383" key="GridCell.Tab.0.center" timestamp="1627041221501">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="383" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1627041221501" />
+    <state width="1388" height="188" key="GridCell.Tab.0.center/0.25.1440.770@0.25.1440.770" timestamp="1626948440736" />
+    <state width="1388" height="383" key="GridCell.Tab.0.left" timestamp="1627041221500">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="383" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1627041221500" />
+    <state width="1388" height="188" key="GridCell.Tab.0.left/0.25.1440.770@0.25.1440.770" timestamp="1626948440735" />
+    <state width="1388" height="383" key="GridCell.Tab.0.right" timestamp="1627041221501">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="383" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1627041221501" />
+    <state width="1388" height="188" key="GridCell.Tab.0.right/0.25.1440.770@0.25.1440.770" timestamp="1626948440737" />
+    <state width="1388" height="292" key="GridCell.Tab.1.bottom" timestamp="1626954896972">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="292" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1626954896972" />
+    <state width="1388" height="292" key="GridCell.Tab.1.center" timestamp="1626954896971">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="292" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1626954896971" />
+    <state width="1388" height="292" key="GridCell.Tab.1.left" timestamp="1626954896971">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="292" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1626954896971" />
+    <state width="1388" height="292" key="GridCell.Tab.1.right" timestamp="1626954896972">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="292" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1626954896972" />
+    <state x="444" y="170" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1626943424353">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="444" y="170" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1626943424353" />
+    <state x="0" y="25" width="1440" height="770" key="new project wizard" timestamp="1627034657925">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="25" width="1440" height="770" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1627034657925" />
+  </component>
+</project>
